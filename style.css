@@ -2,13 +2,11 @@ body{
     margin:0;
      padding-top:500px;
 }
-/*
 .profile{
     width:175px;
     margin-bottom:50p;
     border-radius:50%;
 }
-*/
 #Welcome{
     position:absolute;
     overflow:hidden;
@@ -82,4 +80,13 @@ p{
 }
 .links:hover{
     background-color:dodgerblue;
+}
+a{
+    text-decoration:none;
+}
+.artcle:hover{
+    color:fuchsia;
+}
+html{
+    scroll-behavior:smooth;
 }
